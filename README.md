@@ -1,6 +1,7 @@
 # EggDrop
 The latest builds of EggDrop for Windows and Mac. This is an arcade-style game I created with Unity featuring custom art, animation, and carefully crafted gameplay mechanics.
 
+(If playing on Mac, you will see a warning message when attempting to open the file because I am not a Verified Apple Developer. You will need to maunally allow permissions to open the app in General Settings. I apologize for the inconvenience.)
 
 Controls:
 
